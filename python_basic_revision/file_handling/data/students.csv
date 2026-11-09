@@ -1,4 +1,4 @@
-student_id,name,age,course,marks
+student_id,name,age,course,marks,trger
 101,Arjun,20,Python,85
 102,Ravi,21,SQL,90
 103,Kiran,19,Python,75
