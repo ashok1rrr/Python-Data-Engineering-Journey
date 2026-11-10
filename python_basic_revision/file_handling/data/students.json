@@ -1,0 +1,23 @@
+{
+    "school": "ZEDA School",
+    "students": [
+        {
+            "id": 101,
+            "name": "Arjun",
+            "age": 20,
+            "course": "Python"
+        },
+        {
+            "id": 102,
+            "name": "Ravi",
+            "age": 21,
+            "course": "SQL"
+        },
+        {
+            "id": 103,
+            "name": "Kiran",
+            "age": 19,
+            "course": "Python"
+        }
+    ]
+}
