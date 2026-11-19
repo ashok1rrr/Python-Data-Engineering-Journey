@@ -23,3 +23,9 @@ data = [
 
 df = pd.DataFrame(data, columns=["Name","Age","City"])
 print(df)
+
+
+# Creating an empty DataFrame
+
+k = pd.DataFrame()
+print(k)
